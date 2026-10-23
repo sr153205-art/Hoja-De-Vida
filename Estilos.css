@@ -1,0 +1,246 @@
+
+body {
+background-color: #f5faf5;
+font-family: "montserrat";
+margin: 40px;
+    
+}
+
+li {
+line-height: 24px;
+
+}
+
+/* contenido principal */
+
+.contenedor-principal {
+display: flex;
+flex-direction: row;
+background-color: rgb(255, 255, 255);
+width: 1200px;
+margin: 20 auto;
+box-shadow: 6px 6px 20px   rgb(0, 0, 0, 0.1);
+margin-right: 100px;
+    
+
+
+
+}
+
+.informacion-general {
+padding: 40px 40px;
+margin: 40;
+    
+}
+
+.txtorange {
+color: orange;
+}
+
+.timelab {
+font-style: normal;
+font-weight: 400px;
+font-size: 12px;
+line-height: 15px;
+color: rgb(59, 58, 58);
+
+}
+
+/* descripcion */
+
+.nombre {
+font-style: normal;
+font-weight: 400px;
+font-size: 35px;
+line-height: 55px;
+margin-top: 20;
+margin-bottom: 25;
+
+}
+
+.textdescrip {
+width: 300;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+margin-left: 10px;
+margin-right: 120px;
+
+}
+
+.descri {
+margin-bottom: 80px;
+    
+}
+
+
+.descrihdv {
+font-size: 14px;
+font-weight: 700px;
+
+}
+
+/* proyectos */
+
+.listproy {
+width: 600px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+padding-left: 17px;
+}
+
+.ptsproyect {
+font-style: normal;
+font-weight: 400px;
+font-size: 16px;
+line-height:  24px;
+letter-spacing: 3px;
+color: gray;
+
+}
+
+
+.enlaceproyect {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: gray;
+text-shadow: 0px 4px 4px  rgba(0, 0, 0, 0.25);
+
+}
+
+/* experiencia laboral */
+
+
+.listedu {
+width: 600px;
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+padding: 17px;
+    
+}
+
+.listexp {
+width: 600px;
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+padding-left: 17px;
+
+}
+
+.timelab {
+font-style: normal;
+font-weight: 400px;
+font-size: 12px;
+line-height: 15px;
+color: rgb(59, 58, 58);
+    
+}
+
+.ExpLab {
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+margin-top: 15px;
+margin-bottom: 12px;
+}
+
+.titulo-seccion-principal {
+font-style: normal;
+font-weight: 700px;
+font-size: 22px;
+line-height: 27px;
+margin-top: 50;
+
+}
+
+/* informacion secundaria */
+
+.infosec {
+background-color: rgb(18, 18, 82);
+padding: 20px 0px;
+margin-left: 20px;
+margin-right: 100px;
+
+}
+
+.titulat {
+color: white;
+font-style: normal;
+font-weight: 700px;
+font-size: 15px;
+line-height: 18px;
+margin-top: 50;
+}
+
+.tipocont {
+color: white;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 5px;
+margin-right: 18px;
+
+}
+
+
+.cont, .habtec, .habblan {
+margin-left: 20px;
+color: rgb(253, 251, 251);
+
+
+}
+
+.infocont {
+color: gray;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 15px;
+    
+    
+}
+
+.elelistlat {
+color: white;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+margin-right: 10px;
+}
+    
+.fotop  {
+width: 200px;
+border-radius: 20px;
+margin-right: 40px;
+margin-left: 40px;
+    
+}
+
+
+
+.btn2{
+display: inline-block;
+background-color: rgb(62, 65, 241);
+color: white;
+text-decoration: none;
+border: none;
+padding: 4px 8px;
+border-radius: 5px;
+cursor: pointer;
+text-align: center;
+}
+
+.btn2:hover{
+background-color:  rgb(79, 161, 228);
+transform: translateY(-3px);
+}
